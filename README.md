@@ -43,12 +43,6 @@ This app helps users **find nearby blood donors**, **request blood in emergencie
   <img src="assets/screenshots/request.png" width="250"/>
 </p>
 
----
-
-## 🎥 YouTube Demo
-
-> https://youtu.be/a1EY3LNqGuE?si=FyY4xpDvXEquSP7Y
-
 
 
 ---
