@@ -1,0 +1,35 @@
+name: blood_app
+description: "Blood Donation Finder App - Save Lives, One Drop at a Time"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  # State Management
+  flutter_riverpod: ^2.4.9
+  # Navigation
+  go_router: ^13.2.0
+  # Animations
+  flutter_animate: ^4.5.0
+  shimmer: ^3.0.0
+  confetti: ^0.7.0
+  # UI
+  google_fonts: ^6.1.0
+  flutter_staggered_animations: ^1.1.1
+  # Utilities
+  intl: ^0.19.0
+  shared_preferences: ^2.2.2
+  uuid: ^4.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
